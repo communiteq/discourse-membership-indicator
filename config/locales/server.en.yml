@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    membership_indicator_enabled: 'Enable Membership Indicator plugin.'
+    membership_indicator_groups: 'Membership Indicator triggers on these groups.'

@@ -1,0 +1,6 @@
+plugins:
+  membership_indicator_enabled:
+    default: false
+  membership_indicator_groups:
+    default: ""
+    type: group_list
