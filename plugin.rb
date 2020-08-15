@@ -1,7 +1,7 @@
 # name: discourse-membership-indicator
 # about: Indicate members of a group to other members of that group
 # version: 0.1
-# required_version: 2.5.0
+# required_version: 2.4.0
 # author: DiscourseHosting
 # url: https://github.com/discoursehosting/discourse-membership-indicator
 
