@@ -4,3 +4,5 @@ plugins:
   membership_indicator_groups:
     default: ""
     type: group_list
+  membership_indicator_ignore_self:
+    default: true

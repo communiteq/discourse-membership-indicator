@@ -2,3 +2,4 @@ en:
   site_settings:
     membership_indicator_enabled: 'Enable Membership Indicator plugin.'
     membership_indicator_groups: 'Membership Indicator triggers on these groups.'
+    membership_indicator_ignore_self: "Don't show icons for own user."
